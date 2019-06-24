@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>行者无疆</title>
+  
+  <subtitle>专注人工智能、数据分析、智能硬件研发与应用</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-06-24T07:37:26.976Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>BorisGray</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>civil law</title>
+    <link href="http://yoursite.com/2019/06/20/civillaw/"/>
+    <id>http://yoursite.com/2019/06/20/civillaw/</id>
+    <published>2019-06-20T12:14:57.000Z</published>
+    <updated>2019-06-24T07:37:26.976Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;中华人民共和国民事诉讼法&lt;br&gt;颁布单位： 全国人民代表大会常务委员会颁布日期：2017-06-27执行日期：2017-07-01时 效  性： 现行有效效力级别： 法律&lt;br&gt;目录&lt;br&gt;第一编 总 则&lt;br&gt;第一章 任务、适用范围和基本原则&lt;br&gt;第二章 管 辖&lt;br&gt;第一节 级别管辖&lt;br&gt;第二节 地域管辖&lt;br&gt;第三节 移送管辖和指定管辖&lt;br&gt;第三章 审判组织&lt;br&gt;第四章 回 避&lt;br&gt;第五章 诉讼参加人&lt;br&gt;第一节 当事人&lt;br&gt;第二节 诉讼代理人&lt;br&gt;第六章 证 据&lt;br&gt;第七章 期间、送达&lt;br&gt;第一节 期 间&lt;br&gt;第二节 送 达&lt;br&gt;第八章 调 解&lt;br&gt;第九章 保全和先予执行&lt;br&gt;第十章 对妨害民事诉讼的强制措施&lt;br&gt;第十一章 诉讼费用&lt;br&gt;第二编 审判程序&lt;br&gt;第十二章 第一审普通程序&lt;br&gt;第一节 起诉和受理&lt;br&gt;第二节 审理前的准备&lt;br&gt;第三节 开庭审理&lt;br&gt;第四节 诉讼中止和终结&lt;br&gt;第五节 判决和裁定&lt;br&gt;第十三章 简易程序&lt;br&gt;第十四章 第二审程序&lt;br&gt;第十五章 特别程序&lt;br&gt;第一节 一般规定&lt;br&gt;第二节 选民资格案件&lt;br&gt;第三节 宣告失踪、宣告死亡案件&lt;br&gt;第四节 认定公民无民事行为能力、限制民事行为能力案件&lt;br&gt;第五节 认定财产无主案件&lt;br&gt;第六节 确认调解协议案件&lt;br&gt;第七节 实现担保物权案件&lt;br&gt;第十六章 审判监督程序&lt;br&gt;第十七章 督促程序&lt;br&gt;第十八章 公示催告程序&lt;br&gt;第三编 执行程序&lt;br&gt;第十九章 一般规定&lt;br&gt;第二十章 执行的申请和移送&lt;br&gt;第二十一章 执行措施&lt;br&gt;第二十二章 执行中止和终结&lt;br&gt;第四编 涉外民事诉讼程序的特别规定&lt;br&gt;第二十三章 一般原则&lt;br&gt;第二十四章 管 辖&lt;br&gt;第二十五章 送达、期间&lt;br&gt;第二十六章 仲 裁&lt;br&gt;第二十七章 司法协助&lt;br&gt;1991年4月9日第七届全国人民代表大会第四次会议通过。&lt;/p&gt;
+&lt;p&gt;根据2007年10月28日第十届全国人民代表大会常务委员会第三十次会议《关于修改〈中华人民共和国民事诉讼法〉的决定》第一次修正;　根据2012年8月31日第十一届全国人民代表大会常务委员会第二十八次会议《关于修改〈中华人民共和国民事诉讼法〉的决定》第二次修正;根据2017年6月27日第十二届全国人民代表大会常务委员会第二十八次会议《关于修改〈中华人民共和国民事诉讼法〉和〈中华人民共和国行政诉讼法〉的决定》第三次修正)。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="法律" scheme="http://yoursite.com/categories/%E6%B3%95%E5%BE%8B/"/>
+    
+    
+      <category term="民诉" scheme="http://yoursite.com/tags/%E6%B0%91%E8%AF%89/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2019/06/20/hello-world/"/>
+    <id>http://yoursite.com/2019/06/20/hello-world/</id>
+    <published>2019-06-20T10:23:14.099Z</published>
+    <updated>2019-06-20T10:23:14.099Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
